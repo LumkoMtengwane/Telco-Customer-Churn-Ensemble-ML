@@ -1,5 +1,5 @@
 # Telco-Customer-Churn-Ensemble-ML
-End-to-end ML project that predicts customer churn using a stacked ensemble model combining Logistic Regression, Random Forest, and XGBoost. The project addresses class imbalance with SMOTE, performs hyperparameter optimization using RandomizedSearchCV, and evaluates performance using recall-focused metrics, ROC, and Precision–Recall curves.
+ML project that predicts customer churn using a stacked ensemble model combining Logistic Regression, Random Forest, and XGBoost. The project addresses class imbalance with SMOTE, performs hyperparameter optimization using RandomizedSearchCV, and evaluates performance using recall-focused metrics, ROC, and Precision–Recall curves.
 
 Overview:
 Customer churn is a critical business problem where companies aim to identify customers likely to discontinue their services. This project builds an end-to-end churn prediction system using advanced machine learning techniques, focusing on high recall for churned customers, which is essential in real-world retention strategies.
